@@ -11,10 +11,16 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.3
+  font_awesome_flutter: ^10.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
+  assets:
+    - images/bench_press.png
+    - images/deadlift.png
+    - images/squat.png
   uses-material-design: true
+
